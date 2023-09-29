@@ -1,0 +1,45 @@
+leftnav:
+- identifier: ff794161-6d0b-fe8a-9c4e-8620b15fe54b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 67848180-d585-ce7b-d8c7-7bba60a9aeb0
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: a4a0f175-edb3-9174-5b2f-580e3eff1d2a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 3ffcba16-e814-7c70-05eb-dbac5f8a876d
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: dbda32cb-15c7-ec48-bd12-e3d2fcd28d32
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 43323cdc-4954-552b-1629-f2ad3881846e
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 60
+- identifier: 50d92ea2-d150-c5f6-f0ad-74c04e8bec8d
+  name: 'Environmental Analysis of HSR: Overview'
+  pageRef: /pages/projects/environmental-analysis-of-high-speed-rail-overview
+  parent: 43323cdc-4954-552b-1629-f2ad3881846e
+  weight: 70
+- identifier: 9369eff4-51b1-44aa-f4f0-79e78036d89e
+  name: 'Environmental Analysis of HSR: Calendar '
+  pageRef: /pages/projects/environmental-analysis-of-high-speed-rail-calendar
+  parent: 43323cdc-4954-552b-1629-f2ad3881846e
+  weight: 80
+- identifier: 07c5e80f-e070-a1d1-927b-e46b68011048
+  name: 'Environmental Analysis of HSR: Readings'
+  pageRef: /pages/projects/environmental-analysis-of-high-speed-rail-readings
+  parent: 43323cdc-4954-552b-1629-f2ad3881846e
+  weight: 90
+- identifier: f3b64afa-157e-c7ee-08ac-dce5d386b228
+  name: 'Environmental Analysis of HSR: Recitations'
+  pageRef: /pages/projects/environmental-analysis-of-high-speed-rail-recitations
+  parent: 43323cdc-4954-552b-1629-f2ad3881846e
+  weight: 100
